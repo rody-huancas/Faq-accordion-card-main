@@ -176,4 +176,8 @@ body {
   .title__accordion {
     text-align: center;
   }
+
+  .attribute {
+    font-size: 12px;
+  }
 }
