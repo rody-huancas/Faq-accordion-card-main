@@ -8,6 +8,5 @@ document.addEventListener("DOMContentLoaded", () => {
             questions.forEach(question => question.parentNode.classList.remove("active"))
             question.parentNode.classList.add("active")
         }
-
     }))
 }) 
